@@ -1,6 +1,6 @@
 # Todo-list application backend
-#
-#
+
+
 A simple full-stack restful todo application where you can log-in, create TODO in todolist,
 update, delete and modify. Data stored in-memory H2DB.
 
@@ -20,7 +20,6 @@ update, delete and modify. Data stored in-memory H2DB.
 The main task of the project was to educate and improve knowledge of angular and the relationship between Angular and Spring-boot. This is my first project on Angular technology. To build the project, I used Youtube resources and various blogs.
 
 ## Pictures
-#
 
 - Basic Authorization
 ![N|Solid](https://i.ibb.co/CHcLGyf/3.png)
